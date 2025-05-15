@@ -1,0 +1,10 @@
+web: node index.js
+``>
+
+---
+
+### 🔧 **Step 7: Initialize Git**
+```bash
+git init
+git add .
+git commit -m "Initial commit"
