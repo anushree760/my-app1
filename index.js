@@ -36,7 +36,7 @@ app.get("/", (req, res) => {
         </style>
       </head>
       <body>
-        <h1>Hello from Render 👋</h1>
+        <h1>Hello from  👋</h1>
         <p>This is a styled Node.js + Express app deployed with CI/CD on Render.</p>
         <footer>© 2025 Anushree's Demo Project</footer>
       </body>
